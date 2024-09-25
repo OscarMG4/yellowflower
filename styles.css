@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Courier New', monospace;
-  background: linear-gradient(135deg, #FFE6B3 0%, #ed6d9e 100%);
+  background: linear-gradient(135deg, #e9d7b4 0%, #f17705 100%);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,7 +20,7 @@ body {
 
 h1 {
   font-size: 4em;
-  color: #e84fff;
+  color: #f78f2e;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
   animation: fadeIn 3s ease-in-out;
   margin-bottom: 40px;
